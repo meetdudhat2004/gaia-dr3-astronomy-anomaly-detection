@@ -1,0 +1,22 @@
+{
+  "roc_auc": 0.9367960663590759,
+  "precision": 0.6490066225165563,
+  "recall": 0.020395421436004164,
+  "f1_score": 0.03954802259887006,
+  "threshold": -3.459960182944366e-16,
+  "injection_strength": 3.5,
+  "min_features_perturbed": 2,
+  "max_features_perturbed": 4,
+  "confusion_matrix": [
+    [
+      4752,
+      53
+    ],
+    [
+      4707,
+      98
+    ]
+  ],
+  "n_normal": 4805,
+  "n_synthetic": 4805
+}
